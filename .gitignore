@@ -6,7 +6,6 @@
 *.exe
 *.o
 *.so
-*.pyc
 *hdf5datasets/checkpoint
 .idea/*
 # Packages #
